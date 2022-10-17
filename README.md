@@ -1,7 +1,7 @@
 # About me ℹ️
 
 - 👋 Hi, I’m Ignacio Fernandez, from Lleida, Spain.
-- 🌱 I’m currently learning **JS**, **TypeScript** and **Angular**.
+- 🌱 I’m currently learning **JS**, **TypeScript** and **React**.
 - 🔎 I'm also interested in React and its components
 - 📫 How to reach me: [Contact](https://seoseu.com/contacto)
 
@@ -62,9 +62,9 @@ Emoji glossary: `💟 Favourite` `✨ In progress` `🔎 Interested`
 #### Type Checkers:
 - [ ] **TypeScript** ✨
 
-#### PWA:
-- [ ] **Angular** ✨💟
-- [ ] Ract (Next.js and After.js) 🔎
+#### Framework:
+- [x] Astro 💟
+- [ ] Ract (Next.js) ✨💟
 - [ ] Vue.js
 
 <!---
